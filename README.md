@@ -6,4 +6,4 @@ Road parsing in UAV imagery traditionally relied on supervised learning, constra
 * [Images](https://chdeducn-my.sharepoint.com/:u:/g/personal/2018024008_chd_edu_cn/EbJFezmdsL1Dt9DraDJtpusB-rNgdeyzx8FBRpIrCvYKhA?e=p64byd)
 * [Pseudo_label_by_clustering](https://chdeducn-my.sharepoint.com/:u:/g/personal/2018024008_chd_edu_cn/EcyYtTCmtbBImydwgRz6LbgBwea3NeKtJWoItHHN-O85-Q?e=lSBSsx)
 
-## The repository is being updated. Please stay tuned.
+## Under review. Please stay tuned.
