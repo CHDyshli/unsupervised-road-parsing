@@ -9,6 +9,7 @@ Road parsing in UAV imagery traditionally relied on supervised learning, constra
 ## Under review. Please stay tuned.
 
 ## Preprint
+```bibtex
 @misc{ma2024unsupervised,
       title={Unsupervised semantic segmentation of high-resolution UAV imagery for road scene parsing}, 
       author={Zihan Ma and Yongshang Li and Ronggui Ma and Chen Liang},
@@ -17,3 +18,4 @@ Road parsing in UAV imagery traditionally relied on supervised learning, constra
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
